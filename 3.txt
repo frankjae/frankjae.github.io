@@ -84,6 +84,9 @@ CETV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8$
 梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8$河南移动
 武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$河南移动
 文物宝库,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8$河南移动
+河南IPTV-导视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8$河南移动
+移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8$河南移动
+百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$河南移动
 许昌综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8$河南移动
 许昌公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8$河南移动
 许昌农业科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226387/index.m3u8$河南移动
@@ -175,15 +178,8 @@ SiTV动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325
 海看少儿,http://39.136.48.99:8089/PLTV/88888888/224/3221225943/index.m3u8
 
 
-凤凰卫视,#genre#
-凤凰中文,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8$北京移动
-凤凰资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8$北京移动
-
 
 轮播精选,#genre#
-河南IPTV-导视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8$河南移动
-移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8$河南移动
-百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$河南移动
 北京IPTV淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND$北京移动
 北京IPTV淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND$北京移动
 北京IPTV淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND$北京移动
