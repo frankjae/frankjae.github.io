@@ -87,7 +87,9 @@ CETV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8$
 梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8$河南移动
 武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$河南移动
 文物宝库,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8$河南移动
-河南IPTV-导视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8$河南移动
+文物宝库,http://mmitv.top/other/hntv.php?id=wwbk$大象
+梨园频道,http://mmitv.top/other/hntv.php?id=hnly$大象
+武术世界,http://mmitv.top/other/hntv.php?id=wssj$大象河南IPTV-导视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226464/index.m3u8$河南移动
 移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8$河南移动
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$河南移动
 许昌综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8$河南移动
@@ -101,10 +103,21 @@ CETV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8$
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$陕西移动
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$陕西移动
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$陕西移动
+CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8$陕西移动
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$陕西移动
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$陕西移动
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$陕西移动
+CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$陕西移动
+CCTV女生时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8$陕西移动
+CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$陕西移动
+CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$陕西移动
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8$陕西移动
+CCTV央视精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8$陕西移动
+CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8$陕西移动
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8$陕西移动
 CHC动作电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$延安移动
 CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$延安移动
 CHC高清电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$延安移动
-
 河南
 求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8$河南移动
 求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8$河南移动
@@ -118,7 +131,7 @@ CHC高清电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8$河南移动
 法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8$河南移动
 金色频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332/index.m3u8$河南移动
-七彩戏剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$河南移动
+东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$河南移动
 体育赛事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8$河南移动
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8$河南移动
 茶频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226329/index.m3u8$河南移动
@@ -167,8 +180,7 @@ CHC高清电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m
 
 
 少儿频道,#genre#
-卡酷动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcZU6zpMnBRj8F5x1e65FnY33yNhKtBp1tUOIOoQaZW2g==,,END$北京移动
-
+卡酷动画,http://111.13.42.230/PLTV/88888888/224/3221226558/1.m3u8$北京移动
 卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$河南移动
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$河南移动
 哈哈炫动,http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=no$易视腾
@@ -176,15 +188,24 @@ CHC高清电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m
 嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8$河南移动
 优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$河南移动
 SiTV动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8$河南移动
-北京IPTV淘BABY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND$北京移动
+北京IPTV淘BABY,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8$北京移动
+北京IPTV淘BABY,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8$北京移动
 
-
+凤凰卫视,#genre#
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$官网
+凤凰中文,http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8$西安移动
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$官网
+凤凰资讯,http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8$西安移动
+澳门莲花,http://epg.112114.xyz/lotus
+澳门莲花,http://nettvpro.live/hls/lotustv.php
 
 轮播精选,#genre#
-北京IPTV淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND$北京移动
-北京IPTV淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND$北京移动
-北京IPTV淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND$北京移动
-黑莓电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=no$易视腾
+北京IPTV淘娱乐,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8$北京移动
+北京IPTV淘娱乐,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8$北京移动
+北京IPTV淘剧场,http://120.234.110.137/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8$北京移动
+北京IPTV淘剧场,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8$北京移动
+北京IPTV淘电影,http://111.13.42.169/PLTV/88888888/224/3221226552/1.m3u8$北京移动
+北京IPTV淘电影,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8$北京移动黑莓电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=no$易视腾
 黑莓动画,http://cache.ott.fifalive.itv.cmvideo.cn:80/6497762188035533951/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=no$易视腾
 NewTV超级电视剧,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=no$易视腾
 NewTV超级电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=no$易视腾
