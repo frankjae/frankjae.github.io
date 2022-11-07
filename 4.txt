@@ -267,12 +267,11 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 
 
 少儿频道,#genre#
+CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8$河南移动
 卡酷动画,http://111.13.42.230/PLTV/88888888/224/3221226558/1.m3u8$北京移动
 卡酷动画,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8$北京移动
 金鹰卡通,http://[2409:8087:6a01:1010::35]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls$贵州移动V6
 哈哈炫动,http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=no$易视腾
-嘉佳卡通,http://fyld.eatuo.com:9901/tsfile/live/1043_1.m3u8$酒店
-优漫卡通,http://www.yiyibest.com:7777/udp/239.49.9.39:6000$江苏组播
 卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$河南移动
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$河南移动
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8$河南移动
@@ -290,6 +289,10 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 内蒙古少儿频道,http://[2409:8087:1070:301:2028::15]:80/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/10000100000000060000000000307696_0.smil/01.m3u8?fmt=ts2hls$内蒙移动V6
 北京IPTV淘BABY,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8$北京移动
 北京IPTV淘BABY,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8$北京移动
+黑莓动画,http://cache.ott.fifalive.itv.cmvideo.cn:80/6497762188035533951/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=no$易视腾
+动漫秀场,http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=no$百视通
+iHOT爱动漫,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=no$华数
+iHOT爱幼教,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=no$华数
 
 
 境外频道,#genre#
@@ -348,4 +351,23 @@ iHOT爱家庭,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000090630/in
 iHOT爱青春,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=no$华数
 iHOT爱江湖,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=no$华数
 iHOT爱美食,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=no$华数
-iHOT爱娱乐,http://cache.ott.fifalive.itv.cmvideo.cn:80/60000000060001
+iHOT爱娱乐,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=no$华数
+iHOT爱时尚,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=no$华数
+iHOT爱历史,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=no$华数
+iHOT爱科学,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=no$华数
+iHOT爱军武,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=no$华数
+iHOT爱幼教,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=no$华数
+iHOT爱猎奇,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=no$华数
+iHOT爱解密,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=no$华数
+iHOT爱世界,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=no$华数
+iHOT爱玩具,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=no$华数
+iHOT爱电竞,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=no$华数
+iHOT爱赛车,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=no$华数
+iHOT爱旅行,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=no$华数
+iHOT爱怀旧,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=no$华数
+iHOT爱奇谈,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=no$华数
+iHOT爱动漫,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=no$华数
+iHOT爱体育,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=no$华数
+iHOT爱探索,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=no$华数
+4K影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no$华数
+纯享4K,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=no$易视腾
