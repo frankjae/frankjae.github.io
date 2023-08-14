@@ -147,7 +147,7 @@ CHC高清电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m
 
 
 少儿频道,#genre#
-卡酷动画,http://111.13.42.230/PLTV/88888888/224/3221226558/1.m3u8$北京移动
+
 卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$河南移动
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$河南移动
 哈哈炫动,http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=no$易视腾
@@ -155,21 +155,14 @@ CHC高清电影,http://39.134.19.228:6610/yinhe/2/ch00000090990000002065/index.m
 嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8$河南移动
 优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$河南移动
 SiTV动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8$河南移动
-北京IPTV淘BABY,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8$北京移动
-北京IPTV淘BABY,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8$北京移动
+
 
 凤凰卫视,#genre#
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$官网
-凤凰中文,http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8$西安移动
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$官网
-凤凰资讯,http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8$西安移动
+
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226547/index.m3u8$西安移动
+
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226546/index.m3u8$西安移动
 澳门莲花,http://epg.112114.xyz/lotus
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 
 轮播精选,#genre#
-北京IPTV淘娱乐,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8$北京移动
-北京IPTV淘娱乐,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8$北京移动
-北京IPTV淘剧场,http://120.234.110.137/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8$北京移动
-北京IPTV淘剧场,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8$北京移动
-北京IPTV淘电影,http://111.13.42.169/PLTV/88888888/224/3221226552/1.m3u8$北京移动
-北京IPTV淘电影,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8$北京移
