@@ -115,7 +115,6 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8$河南移动
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$河南移动
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8$河南移动
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$海南移动V6
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8$河南移动
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8$河南移动
 金鹰纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3$易视腾
@@ -146,15 +145,6 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227124/index.m3u8?fmt=ts2hls$河南移动
 美食汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227126/index.m3u8?fmt=ts2hls$河南移动
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/index.m3u8?fmt=ts2hls$河南移动
-郑州新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226949/index.m3u8?fmt=ts2hls$河南移动
-郑州商都频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226955/index.m3u8?fmt=ts2hls$河南移动
-郑州文体频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226996/index.m3u8?fmt=ts2hls$河南移动
-郑州影视戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8?fmt=ts2hls$河南移动
-郑州妇女儿童,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227050/index.m3u8?fmt=ts2hls$河南移动
-郑州都市生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8?fmt=ts2hls$河南移动
-洛阳新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8?fmt=ts2hls$河南移动
-洛阳科教频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227015/index.m3u8?fmt=ts2hls$河南移动
-洛阳文旅频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227013/index.m3u8?fmt=ts2hls$河南移动
 许昌综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227038/index.m3u8?fmt=ts2hls$河南移动
 许昌公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227009/index.m3u8?fmt=ts2hls$河南移动
 许昌农业科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8?fmt=ts2hls$河南移动
@@ -176,20 +166,9 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8$河南移动
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8$河南移动
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$河南移动
-郑州新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
-郑州商都频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226402/index.m3u8
-郑州文体频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8
-郑州影视戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8
-郑州妇女儿童,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226403/index.m3u8
-郑州都市生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226400/index.m3u8
-洛阳新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226394/index.m3u8
-洛阳科教频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-洛阳文旅频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226390/index.m3u8
 许昌综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8
 许昌公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
 许昌农业科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226387/index.m3u8
-济源电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
-
 
 
 数字频道,#genre#
@@ -258,7 +237,7 @@ CCTV电视指南,http://39.134.19.228:6610/yinhe/2/ch00000090990000002545/index.
 
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226904/index.m3u8?fmt=ts2hls$河南移动
 茶频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227129/index.m3u8?fmt=ts2hls$河南移动
-先锋兵羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8?fmt=ts2hls$河南移动
+先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8?fmt=ts2hls$河南移动
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/index.m3u8?fmt=ts2hls$河南移动
 国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227154/index.m3u8?fmt=ts2hls$河南移动
 摄影频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226883/index.m3u8?fmt=ts2hls$河南移动
@@ -301,7 +280,7 @@ CCTV电视指南,http://39.134.19.228:6610/yinhe/2/ch00000090990000002545/index.
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226957/index.m3u8?fmt=ts2hls$河南移动
 优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226984/index.m3u8?fmt=ts2hls$河南移动
 
-卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$河南移动
+卡酷少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$河南移动
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$河南移动
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8$河南移动
 嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8$河南移动
@@ -314,13 +293,14 @@ iHOT爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?
 iHOT爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630
 iHOT爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135750301514&channel-id=wasusyt&Contentid=6000000006000180630
 iHOT爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014135745294013&channel-id=wasusyt&Contentid=6000000006000180630
-北京IPTV淘BABY,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8$北京移动
-
 
 
 境外频道,#genre#
 凤凰中文,http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 澳门莲花,http://epg.112114.xyz/lotus
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 
