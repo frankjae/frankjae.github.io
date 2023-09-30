@@ -140,7 +140,9 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 河南国际频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/index.m3u8?fmt=ts2hls$河南移动
 睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8?fmt=ts2hls$河南移动
 移动戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226929/index.m3u8?fmt=ts2hls$河南移动
+梨园频道,http://159.75.85.63:5681/sxg.php?id=ly_4000
 河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls$河南移动
+文物宝库,http://159.75.85.63:5681/sxg.php?id=wwbk_4000
 收藏天下,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8?fmt=ts2hls$河南移动
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/index.m3u8?fmt=ts2hls$河南移动
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226966/index.m3u8?fmt=ts2hls$河南移动
