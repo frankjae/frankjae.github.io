@@ -79,6 +79,7 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226971/index.m3u8?fmt=ts2hls$河南移动
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8?fmt=ts2hls$河南移动
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8?fmt=ts2hls$河南移动
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$海南移动V6
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226889/index.m3u8?fmt=ts2hls$河南移动
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226914/index.m3u8?fmt=ts2hls$河南移动
 
@@ -116,7 +117,6 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8$河南移动
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$河南移动
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8$河南移动
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$海南移动V6
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8$河南移动
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8$河南移动
 金鹰纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3$易视腾
@@ -215,7 +215,6 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227136/index.m3u8?fmt=ts2hls$河南移动
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226877/index.m3u8?fmt=ts2hls$河南移动
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226843/index.m3u8?fmt=ts2hls$河南移动
-纪实人文,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226914/index.m3u8?fmt=ts2hls$河南移动
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8?fmt=ts2hls$河南移动
 法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8?fmt=ts2hls$河南移动
 金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226912/index.m3u8?fmt=ts2hls$河南移动
@@ -301,7 +300,7 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8$河南移动
 嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8$河南移动
 优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$河南移动
-海南少儿频道,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS$海南移动V6
+海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS$海南移动V6
 动漫秀场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=4$百视通
 黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4$易视腾
 iHOT爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
