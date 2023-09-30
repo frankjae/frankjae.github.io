@@ -305,12 +305,8 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 海南少儿频道,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS$海南移动V6
 动漫秀场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=4$百视通
 黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4$易视腾
-iHOT爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958020221015130801305837&channel-id=wasusyt&Contentid=6000000006000280630
-iHOT爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1956420221015130801308674&channel-id=wasusyt&Contentid=6000000006000280630
-iHOT爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960820221015130756305943&channel-id=wasusyt&Contentid=6000000006000280630
-iHOT爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957920221014135750294528&channel-id=wasusyt&Contentid=6000000006000180630
-iHOT爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221014135750301514&channel-id=wasusyt&Contentid=6000000006000180630
-iHOT爱幼教,http://111.11.123.28:6610/000000001000/6000000006000180630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957220221014135745294013&channel-id=wasusyt&Contentid=6000000006000180630
+爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+
 
 
 
