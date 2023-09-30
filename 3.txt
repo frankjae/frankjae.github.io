@@ -14,6 +14,7 @@ CCTV-12,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226956/index.m3
 CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8?fmt=ts2hls$河南移动
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/index.m3u8?fmt=ts2hls$河南移动
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/index.m3u8?fmt=ts2hls$河南移动
+CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8?fmt=ts2hls$河南移动
 CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8?fmt=ts2hls$河南移动CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8?fmt=ts2hls$河南移动
