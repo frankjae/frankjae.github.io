@@ -130,14 +130,14 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 
 省内频道,#genre#
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8?fmt=ts2hls$河南移动
-河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226911/index.m3u8?fmt=ts2hls$河南移动
-河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226946/index.m3u8?fmt=ts2hls$河南移动
-河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226913/index.m3u8?fmt=ts2hls$河南移动
-河南电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226942/index.m3u8?fmt=ts2hls$河南移动
-河南新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8?fmt=ts2hls$河南移动
-河南法治,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8?fmt=ts2hls$河南移动
-河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226948/index.m3u8?fmt=ts2hls$河南移动
-河南国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/index.m3u8?fmt=ts2hls$河南移动
+河南都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226911/index.m3u8?fmt=ts2hls$河南移动
+河南公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226946/index.m3u8?fmt=ts2hls$河南移动
+河南民生频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226913/index.m3u8?fmt=ts2hls$河南移动
+河南电视剧频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226942/index.m3u8?fmt=ts2hls$河南移动
+河南新闻频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8?fmt=ts2hls$河南移动
+河南法治频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8?fmt=ts2hls$河南移动
+河南乡村频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226948/index.m3u8?fmt=ts2hls$河南移动
+河南国际频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/index.m3u8?fmt=ts2hls$河南移动
 睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8?fmt=ts2hls$河南移动
 移动戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226929/index.m3u8?fmt=ts2hls$河南移动
 河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls$河南移动
@@ -147,21 +147,20 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227124/index.m3u8?fmt=ts2hls$河南移动
 美食汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227126/index.m3u8?fmt=ts2hls$河南移动
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/index.m3u8?fmt=ts2hls$河南移动
-郑州新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226949/index.m3u8?fmt=ts2hls$河南移动
 许昌综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227038/index.m3u8?fmt=ts2hls$河南移动
 许昌公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227009/index.m3u8?fmt=ts2hls$河南移动
 许昌农业科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8?fmt=ts2hls$河南移动
 
 
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8$河南移动
-河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8$河南移动
-河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8$河南移动
-河南法治,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8$河南移动
-河南电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8$河南移动
-河南新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$河南移动
-河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8$河南移动
-河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8$河南移动
-河南国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8$河南移动
+河南都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8$河南移动
+河南民生民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8$河南移动
+河南法治频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8$河南移动
+河南电视剧频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8$河南移动
+河南新闻频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$河南移动
+河南公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8$河南移动
+河南乡村频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8$河南移动
+河南国际频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8$河南移动
 河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8$河南移动
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$河南移动
 收藏天下,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8$河南移动
