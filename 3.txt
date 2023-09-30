@@ -381,6 +381,7 @@ NewTV明星大片,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive
 NewTV海外剧场,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=4$易视腾
 NewTV明星大片,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=4$易视腾
 NewTV魅力潇湘,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=4$易视腾
+
 iHOT爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
 iHOT爱奇谈,http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014133013296225&channel-id=wasusyt&Contentid=6000000006000270630
 iHOT爱奇谈,http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1959120221014133234310230&channel-id=wasusyt&Contentid=6000000006000270630
