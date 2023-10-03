@@ -140,9 +140,12 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 河南国际频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/index.m3u8?fmt=ts2hls$河南移动
 睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8?fmt=ts2hls$河南移动
 移动戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226929/index.m3u8?fmt=ts2hls$河南移动
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls$河南移动
-收藏天下,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8?fmt=ts2hls$河南移动
-中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/index.m3u8?fmt=ts2hls$河南移动
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
+梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls$河南移动
+文物宝库,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8?fmt=ts2hls$河南移动
+武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/index.m3u8?fmt=ts2hls$河南移动
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226966/index.m3u8?fmt=ts2hls$河南移动
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227124/index.m3u8?fmt=ts2hls$河南移动
 美食汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227126/index.m3u8?fmt=ts2hls$河南移动
