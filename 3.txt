@@ -17,7 +17,8 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/index.m3
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8?fmt=ts2hls$河南移动
-CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8?fmt=ts2hls$河南移动CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8?fmt=ts2hls$河南移动
+CCTV-5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8?fmt=ts2hls$河南移动
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226974/index.m3u8?fmt=ts2hls$河南移动
@@ -46,7 +47,6 @@ CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226475/index.m3u8$河南移动
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8$河南移动
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$河南移动
-CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$河南移动
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$河南移动
 CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8$河南移动
 
@@ -124,7 +124,6 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8$河南移动
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8$河南移动
 金鹰纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3$易视腾
-金鹰纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=5745820929742960159&livemode=1&stbId=3$湖南
 北京纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3$易视腾
 北京纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=3$易视腾
 上海纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000001000021713&livemode=1&stbId=3$百视通
@@ -422,5 +421,3 @@ iHOT爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?
 iHOT爱浪漫,http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960320221015130909297281&channel-id=wasusyt&Contentid=6000000006000040630
 iHOT爱浪漫,http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958620221015130853306954&channel-id=wasusyt&Contentid=6000000006000040630
 iHOT爱浪漫,http://111.11.123.28:6610/000000001000/6000000006000040630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1957420221015130909306301&channel-id=wasusyt&Contentid=6000000006000040630
-iHOT爱极限,http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958420221014135739304394&channel-id=wasusyt&Contentid=6000000006000170630
-iHOT爱极限,http://111.11.123.28:6610/000000001000/6000000006000170630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014135734296323&channel-id=wasusyt&Contentid=6000000006000170630
