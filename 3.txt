@@ -21,7 +21,7 @@ CCTV-5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8?fmt=ts2hls$河南移动
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-CETV-CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226974/index.m3u8?fmt=ts2hls$河南移动
+CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226974/index.m3u8?fmt=ts2hls$河南移动
 CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8?fmt=ts2hls
 CETV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227217/index.m3u8?fmt=ts2hls
@@ -223,16 +223,7 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8$河南移动
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8$河南移动
 老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227136/index.m3u8?fmt=ts2hls$河南移动
-乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226877/index.m3u8?fmt=ts2hls$河南移动
-东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226843/index.m3u8?fmt=ts2hls$河南移动
-生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8?fmt=ts2hls$河南移动
-法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8?fmt=ts2hls$河南移动
-金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226912/index.m3u8?fmt=ts2hls$河南移动
-游戏风云,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226910/index.m3u8?fmt=ts2hls$河南移动
-都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226884/index.m3u8?fmt=ts2hls$河南移动
-动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226845/index.m3u8?fmt=ts2hls$河南移动
-魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227123/index.m3u8?fmt=ts2hls$河南移动
-欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226882/index.m3u8?fmt=ts2hls$河南移动
+
 
 老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$河南移动
 欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8$陕西移动
@@ -247,7 +238,6 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8$河南移动
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8?
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8$河南移动
@@ -257,6 +247,16 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$河南移动
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 七彩戏剧,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8
+乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226877/index.m3u8?fmt=ts2hls$河南移动
+东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226843/index.m3u8?fmt=ts2hls$河南移动
+生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8?fmt=ts2hls$河南移动
+法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226895/index.m3u8?fmt=ts2hls$河南移动
+金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226912/index.m3u8?fmt=ts2hls$河南移动
+游戏风云,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226910/index.m3u8?fmt=ts2hls$河南移动
+都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226884/index.m3u8?fmt=ts2hls$河南移动
+动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226845/index.m3u8?fmt=ts2hls$河南移动
+魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227123/index.m3u8?fmt=ts2hls$河南移动
+欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226882/index.m3u8?fmt=ts2hls$河南移动
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226904/index.m3u8?fmt=ts2hls$河南移动
 茶频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227129/index.m3u8?fmt=ts2hls$河南移动
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8?fmt=ts2hls$河南移动
