@@ -229,24 +229,15 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8$陕西移动
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$河南移动
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8$河南移动
-东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-东方影视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
-东方影视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
-东方影视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8?
 新视觉,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8?fmt=ts2hls$河南移动
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8$河南移动
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-五星体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
-五星体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8?
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8$河南移动
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8$河南移动
 法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8$河南移动
 金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332/index.m3u8$河南移动
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$河南移动
-七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-七彩戏剧,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226877/index.m3u8?fmt=ts2hls$河南移动
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226843/index.m3u8?fmt=ts2hls$河南移动
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8?fmt=ts2hls$河南移动
@@ -279,8 +270,6 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 车迷频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226347/index.m3u8$河南移动
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$河南移动
 国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8$河南移动
-中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-中国天气,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8
 
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8$官网
 
@@ -315,11 +304,9 @@ CCTV电视指南,http://[2409:8087:6a01:1020::4]/cdnrrs.gz.chinamobile.com/PLTV/
 
  
 轮播精选,#genre#
-黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw560834707_747490476/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3$江苏移动V6
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1756633734_-1487356125/ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3$江苏移动V6
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3$江苏移动V6
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3$江苏移动V6
-咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3$江苏移动V6
 NewTV海外剧场,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw2056934744_1249676649/ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8?icpid=3&RTS=1674386467&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3$江苏移动V6
 NewTV中国功夫,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1755251107_-1720510105/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8?icpid=3&RTS=1674386165&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3$江苏移动V6
 NewTV军事评论,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1555337016_-1312521077/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8?icpid=3&RTS=1674385965&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3$江苏移动V6
