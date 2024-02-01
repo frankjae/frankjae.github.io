@@ -183,8 +183,6 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 许昌综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227038/index.m3u8?fmt=ts2hls$河南移动
 许昌公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227009/index.m3u8?fmt=ts2hls$河南移动
 许昌农业科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227040/index.m3u8?fmt=ts2hls$河南移动
-鄢陵综合频道,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-鄢陵综合频道,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
 
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8$河南移动
 河南都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8$河南移动
