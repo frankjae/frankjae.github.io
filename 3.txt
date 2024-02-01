@@ -134,6 +134,18 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8$河南移动
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8$河南移动
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226355/index.m3u8$河南移动
+金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8?fmt=ts2hls$河南移动
+卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8?fmt=ts2hls$河南移动
+嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226963/index.m3u8?fmt=ts2hls$河南移动
+哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226957/index.m3u8?fmt=ts2hls$河南移动
+优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226984/index.m3u8?fmt=ts2hls$河南移动
+
+卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$河南移动
+金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$河南移动
+哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8$河南移动
+嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8$河南移动
+优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$河南移动
+海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS$海南移动V6
 
 省内频道,#genre#
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8?fmt=ts2hls$河南移动
@@ -288,25 +300,11 @@ CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 
 
 
-少儿频道,#genre#
-金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8?fmt=ts2hls$河南移动
-卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8?fmt=ts2hls$河南移动
-嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226963/index.m3u8?fmt=ts2hls$河南移动
-哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226957/index.m3u8?fmt=ts2hls$河南移动
-优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226984/index.m3u8?fmt=ts2hls$河南移动
-
-卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$河南移动
-金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$河南移动
-哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8$河南移动
-嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8$河南移动
-优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$河南移动
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS$海南移动V6
 
 
 
 
-
-境外频道,#genre#
+测试频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
