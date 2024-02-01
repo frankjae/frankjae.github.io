@@ -344,6 +344,8 @@ HOT少儿动漫,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000
 HOT风尚音乐,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000004/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3
 HOT欧美影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
 HOT亚洲影院,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
+百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+古装剧,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
  
 历年春晚,#genre#
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
