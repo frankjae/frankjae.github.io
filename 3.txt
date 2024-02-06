@@ -91,7 +91,6 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8?fmt=ts2hls$河南移动
 山东教育卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227214/index.m3u8
 兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
-康巴卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227259/index.m3u8
 大湾区卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227278/index.m3u8
 延边卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/index.m3u8
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
