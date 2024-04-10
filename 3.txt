@@ -174,15 +174,6 @@ CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227124/index.m3u8?fmt=ts2hls$河南移动
 美食汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227126/index.m3u8?fmt=ts2hls$河南移动
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/index.m3u8?fmt=ts2hls$河南移动
-郑州新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226949/index.m3u8?fmt=ts2hls$河南移动
-郑州商都频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226955/index.m3u8?fmt=ts2hls$河南移动
-郑州文体频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226996/index.m3u8?fmt=ts2hls$河南移动
-郑州影视戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227000/index.m3u8?fmt=ts2hls$河南移动
-郑州妇女儿童,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227050/index.m3u8?fmt=ts2hls$河南移动
-郑州都市生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8?fmt=ts2hls$河南移动
-洛阳新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8?fmt=ts2hls$河南移动
-洛阳科教频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227015/index.m3u8?fmt=ts2hls$河南移动
-洛阳文旅频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227013/index.m3u8?fmt=ts2hls$河南移动
 4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226936/index.m3u8?fmt=ts2hls
 河南IPTV-导视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226934/index.m3u8?fmt=ts2hls
 健康中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8?fmt=ts2hls
@@ -205,16 +196,9 @@ CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8$河南移动
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8$河南移动
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$河南移动
-郑州新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8
-郑州商都频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226402/index.m3u8
-郑州文体频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8
-郑州影视戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8
-郑州妇女儿童,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226403/index.m3u8
-郑州都市生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226400/index.m3u8
-洛阳新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226394/index.m3u8
-洛阳科教频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-洛阳文旅频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226390/index.m3u8
-济源电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
+许昌综合频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8$河南移动
+许昌公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8$河南移动
+许昌农业科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226387/index.m3u8$河南移动
 
 
 
