@@ -93,7 +93,6 @@ CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 山东教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227214/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
 延边卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/index.m3u8
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$海南移动V6
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226889/index.m3u8?fmt=ts2hls$河南移动
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226914/index.m3u8?fmt=ts2hls$河南移动
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
@@ -149,7 +148,6 @@ CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8$河南移动
 嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8$河南移动
 优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$河南移动
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS$海南移动V6
 
 
 省内频道,#genre#
@@ -164,9 +162,6 @@ CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 河南国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/index.m3u8?fmt=ts2hls$河南移动
 睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8?fmt=ts2hls$河南移动
 移动戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226929/index.m3u8?fmt=ts2hls$河南移动
-梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 梨园,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls$河南移动
 文物宝库,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8?fmt=ts2hls$河南移动
 武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/index.m3u8?fmt=ts2hls$河南移动
@@ -204,9 +199,6 @@ CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 
 数字频道,#genre#
 
-CHC家庭影院,http://sxz.zccatv.cn:9992/tsfile/live/1077_1.m3u8
-CHC动作电影,http://sxz.zccatv.cn:9992/tsfile/live/1078_1.m3u8
-CHC高清电影,http://sxz.zccatv.cn:9992/tsfile/live/1079_1.m3u8
 
 河南
 老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227136/index.m3u8?fmt=ts2hls$河南移动
@@ -287,15 +279,12 @@ CHC高清电影,http://sxz.zccatv.cn:9992/tsfile/live/1079_1.m3u8
 
 
 境外频道,#genre#
-凤凰中文,http://sxz.zccatv.cn:9992/tsfile/live/0108_1.m3u8
-凤凰资讯,http://sxz.zccatv.cn:9992/tsfile/live/1076_1.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 [V],http://wouu.net:9977/udp/239.93.1.7:2194
 
 
 
 轮播精选,#genre#
-IPTV相声小品,http://sxz.zccatv.cn:9992/tsfile/live/1090_1.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
