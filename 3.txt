@@ -109,7 +109,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8?fmt=ts2hls$河南移动4M576
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8?fmt=ts2hls$河南移动4M576
 山东教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227214/index.m3u8$河南移动576
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$官网4M#http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202$央视频4M#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8$河南移动576
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$官网4M#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8$河南移动576
 兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227373/index.m3u8?fmt=ts2hls$河南移动4M576
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227400/index.m3u8?fmt=ts2hls$河南移动4M576
 三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8$河南移动576
@@ -117,17 +117,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 厦门卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227375/index.m3u8$河南移动576
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226889/index.m3u8?fmt=ts2hls$河南移动8M
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226914/index.m3u8?fmt=ts2hls$河南移动8M
-北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8$河南移动4M
-金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8?fmt=ts2hls$河南移动
-卡酷动画,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
-哈哈炫动,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-嘉佳卡通,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
-优漫卡通,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8?fmt=ts2hls$河南移动8M
-卡酷动画,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3$百视通8M
-哈哈炫动,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3$百视通8M
-嘉佳卡通,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3$易视腾4M576
-优漫卡通,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3$易视腾4M576
 卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8?fmt=ts2hls$河南移动4M576
 嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226963/index.m3u8?fmt=ts2hls$河南移动4M576
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226957/index.m3u8?fmt=ts2hls$河南移动4M576
@@ -168,9 +158,6 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 
 
 数字频道,#genre#
-CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
-CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 河南
 老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227136/index.m3u8?fmt=ts2hls$河南移动4M576
 求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8$河南移动8M
@@ -208,28 +195,6 @@ CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb1520
 环球旅游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8?fmt=ts2hls$河南移动4M576
 书画频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227121/index.m3u8?fmt=ts2hls$河南移动4M576
 
-动漫秀场,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3$百视通8M
-都市剧场,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3$百视通8M
-法治天地,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3$百视通8M
-欢笑剧场,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3$百视通4M
-金色学堂,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3$百视通8M
-劲爆体育,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3$百视通4M
-乐游,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3$百视通8M
-魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$百视通8M
-七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3$百视通8M
-生活时尚,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3$百视通4M
-第一财经,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3$百视通4M
-东方财经,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$百视通4M
-东方影视,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3$百视通4M
-上海都市,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3$百视通4M
-五星体育,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3$百视通4M
-上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3$百视通8M
-茶频道,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3$百视通8M
-快乐垂钓,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3$百视通8M
-家庭理财,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031210&livemode=1&stbId=3$百视通576
-财富天下,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031208&livemode=1&stbId=3$百视通576
-中国天气,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3$百视通576
-中华美食,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=3$百视通576
 
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8$官网
 
